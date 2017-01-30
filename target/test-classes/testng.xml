@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="suite" parallel="false">
+<listeners>
+  	<listener class-name="org.uncommons.reportng.HTMLReporter"/>
+  	<listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>         
+ </listeners>
+ <test name="Test" >
+    <classes>
+     	<class name="br.com.caelum.leilao.test.UsuariosWSTest"></class> 
+    </classes>
+ </test>
+</suite>

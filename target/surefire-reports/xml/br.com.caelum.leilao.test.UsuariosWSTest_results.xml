@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="3,728">
+  <properties />
+  
+  
+            <testcase name="deveRetornarListaDeUsuarios" time="3,728" classname="br.com.caelum.leilao.test.UsuariosWSTest" />
+      
+</testsuite>

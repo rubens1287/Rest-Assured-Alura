@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2677" started-at="2017-01-30T01:55:46Z" finished-at="2017-01-30T01:55:49Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2677" started-at="2017-01-30T01:55:46Z" finished-at="2017-01-30T01:55:49Z">
+      <class name="br.com.caelum.leilao.test.OutrosTestWs">
+        <test-method status="PASS" signature="deveValidarCookie()[pri:0, instance:br.com.caelum.leilao.test.OutrosTestWs@5e025e70]" name="deveValidarCookie" duration-ms="2531" started-at="2017-01-29T23:55:46Z" finished-at="2017-01-29T23:55:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deveValidarCookie -->
+        <test-method status="PASS" signature="deveValidarHeader()[pri:0, instance:br.com.caelum.leilao.test.OutrosTestWs@5e025e70]" name="deveValidarHeader" duration-ms="122" started-at="2017-01-29T23:55:49Z" finished-at="2017-01-29T23:55:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deveValidarHeader -->
+      </class> <!-- br.com.caelum.leilao.test.OutrosTestWs -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
